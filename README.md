@@ -16,7 +16,7 @@
 
 Results-driven, frontend-focused software engineer with expertise in React, TypeScript, and modern web tooling. Currently a Senior Software Engineer (Frontend) at [Healthie](https://www.gethealthie.com), where I mentor engineers, set frontend architecture standards, and lead the implementation of complex features. I care about performance, accessibility, and code that's a pleasure for the next person to work in.
 
-- 🔭 Senior Software Engineer (Frontend) @ Healthie
+- 🔭 Senior Software Engineer (Frontend) @Healthie
 - 🌱 Always deepening my TypeScript, testing, and design-system skills
 - 💬 Ask me about frontend architecture, React, TypeScript, or headless CMS work
 
